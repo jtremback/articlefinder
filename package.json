@@ -1,0 +1,31 @@
+{
+    "name": "articlefinder",
+   	"version": "0.0.1",
+	"description": "A way to get the content of an article. Similar to readability.",
+	"keywords": [
+		"article",
+		"readability",
+		"content scraper"
+	],
+	"maintainers": [{
+		"name": "Francesc",
+		"email": "francesc@lapomacatalana.com"
+	}],
+	"bugs": {
+		"email": "francesc@lapomacatalana.com",
+		"url":""
+	},
+	"licenses" : [{
+		"type": "MIT",
+		"url": ""
+	}],
+	"dependencies": {
+		"jsdom" : "0.2.x"
+	},
+	"engines" : { "node" : ">=0.6.0" },
+    "directories": {
+        "lib": "./lib/articlefinder.js"
+    },
+    "main": "./lib/articlefinder.js"
+    
+}
