@@ -13,15 +13,21 @@
 	}],
 	"bugs": {
 		"email": "francesc@lapomacatalana.com",
-		"url":""
+		"url": "https://github.com/ifrins/articlefinder/issues"
 	},
 	"licenses" : [{
 		"type": "MIT",
-		"url": ""
+		"url": "https://github.com/ifrins/articlefinder/blob/master/LICENSE.txt"
 	}],
 	"dependencies": {
 		"jsdom" : "0.2.x"
 	},
+	"repositories": [
+		{
+			"type": "git",
+			"url": "http://github.com/ifrins/articlefinder.git"
+		}
+	],
 	"engines" : { "node" : ">=0.6.0" },
     "directories": {
         "lib": "./lib/articlefinder.js"
