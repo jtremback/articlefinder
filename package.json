@@ -7,6 +7,7 @@
 		"readability",
 		"content scraper"
 	],
+	"homepage":"https://github.com/ifrins/articlefinder",
 	"author": "Francesc <francesc@lapomacatalana.com>",
 	"maintainers": [{
 		"name": "Francesc",
