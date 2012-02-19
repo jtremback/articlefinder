@@ -1,12 +1,13 @@
 {
     "name": "articlefinder",
-   	"version": "0.0.1",
+   	"version": "0.0.2",
 	"description": "A way to get the content of an article. Similar to readability.",
 	"keywords": [
 		"article",
 		"readability",
 		"content scraper"
 	],
+	"author": "Francesc <francesc@lapomacatalana.com>",
 	"maintainers": [{
 		"name": "Francesc",
 		"email": "francesc@lapomacatalana.com"
@@ -25,7 +26,7 @@
 	"repositories": [
 		{
 			"type": "git",
-			"url": "http://github.com/ifrins/articlefinder.git"
+			"url": "git://github.com/ifrins/articlefinder.git"
 		}
 	],
 	"engines" : { "node" : ">=0.6.0" },
